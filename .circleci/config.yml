@@ -40,7 +40,7 @@ jobs:
           name: akaoqiei
           command: |
             ls
-            sl
+            sleep 2s
 
   aka04:
     docker:
